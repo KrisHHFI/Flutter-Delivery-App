@@ -22,4 +22,4 @@ GIF showing the favourite animation.
 <br> <br>
 
 <img src="Phase4Screenshot4.gif" width= "300"/>
-GIF showing the fade-in animation of new items.
+GIF showing the fade-in animation of new items, when the users location changes.
